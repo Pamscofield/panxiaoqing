@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "PROFESSIONAL SUMMARY"
+title: "PAN Xiaoqing"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-" We choose to do this not because it is easy, but because it is hard " 
+ABOUT ME
 
 I am a PhD student at Hans Knoell Institute in Jena, Germany. My interests spans from filamentous fungi to humans. I'm curious about human-fungal interactions -- countless questions that one could ask: How does RNA work? How does host RNA change during fungal infections? How does fungal RNA change? 
 
